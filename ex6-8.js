@@ -1,9 +1,9 @@
 function sayhello68(){
-    alert('Hello,'+document.getElementById('Who').innerHTML+'!');
+    alert('Hello,'+ document.getElementById('Who68').innerHTML +'!');
 }
 function taro68(){
-    document.getElementById('Who').innerHTML='太郎';
+    document.getElementById('Who68').innerHTML='太郎';
 }
 function hanako68(){
-    document.getElementById('Who').innerHTML='花子';
+    document.getElementById('Who68').innerHTML='花子';
 }
